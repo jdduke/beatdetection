@@ -1,4 +1,5 @@
 BeatDetection Installation Overview
+===================================
 
 Quick Start
 -----------
