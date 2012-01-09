@@ -1,7 +1,7 @@
 BeatDetection
 =============
 
-BeatDetection is a simple header-based C++ library for analyzing beats for a given audio stream.
+BeatDetection is a simple header-based C++ library for analyzing beats of a given audio stream.
 
 Documentation
 -------------
